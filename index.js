@@ -1,5 +1,4 @@
 // Esercizio 1: Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.
-
 // Risposta: I principali datatype in JavaScript sono di 6 tipologie:
 
 //string, che rappresenta un serie di caratteri alfanumerici espressi tra apici "" o ''
