@@ -1,5 +1,7 @@
 # Esercitazione del 23/06/2023
 
+> Questo ReadME riporta il contenuto dell'esercitazione scaricabile dal file index.js
+
 ### **Esercizio 1:**
 **Elenca e descrivi i principali datatype in JavaScript. Prova a spiegarli come se volessi farli comprendere a un bambino.**
 
