@@ -38,12 +38,12 @@ console.log(12 + 20)
 let x = 12
 
 // Esercizio 5: Crea una variable chiamata "name" e assegna ad essa il tuo nome, sotto forma di stringa
-// Risposta: Per creare una variabile con un valore string, basterà rinchiuderlo dentro degli apici:
+// Risposta: Per creare una variabile alfanumerica con un valore string, basterà rinchiuderlo dentro degli apici:
 let name = "Francesco"
-console.log
 
 // Esercizio 6: Esegui una sottrazione tra i numeri 4 e la variable "x" appena dichiarata (che contiene il numero 12).
 // Risposta:
+let x = 12
 console.log(4-x)
 console.log(x-4)
 
